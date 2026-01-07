@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Joel Muia
+- 👋 Hi, I’m @Joel Nzuma
 - 👀 I’m interested in programming and cyber security
-- 🌱 I’m currently learning programming in plp
+- 🌱 I’m currently learning programming at zetech university 
 - 💞️ I’m looking to collaborate with someone whom we can code with.
 - 📫 How to reach me +254746934301
 - ⚡ Fun fact: Coding
